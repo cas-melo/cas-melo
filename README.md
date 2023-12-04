@@ -1,6 +1,7 @@
 # Hello, World! 
 
 🚀
+
 Meu nome é Lucas Melo, atualmente desenvolvedor Jr. em busca de conhecimento.
 
 Tenho a intenção de trabalhar com FullStack ou outras áreas da computação, atualmente estou caminhando pelo Back end.
