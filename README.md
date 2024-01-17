@@ -1,41 +1,55 @@
-# Hello, World! 
+# &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Hello, World! 
 
-🚀
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;🚀
 
-Meu nome é Lucas Melo, atualmente desenvolvedor Jr. em busca de conhecimento.
+Sou um desenvolvedor Back End Jr. buscando minha primeira experiência profissional, tenho conhecimento em tecnologias como Java, C#, SQL e Python. Estou sempre aberto a explorar novas frameworks e linguagens para aprimorar minhas habilidades e expandir meu conhecimento.
 
-Tenho a intenção de trabalhar com FullStack ou outras áreas da computação, atualmente estou caminhando pelo Back end.
+Sou uma pessoa criativa, paciente e comunicativa, características que acredito serem fundamentais no mundo da programação. Com um raciocínio lógico apurado, estou constantemente estudando para criar soluções significativas e impactantes por meio da programação.
 
-C++, Python, JavaScript, Typescript, NodeJS, VueJS, HTM5, CSS3 são algumas etapas de interesse no meu caminho.
+Acredito que o aprendizado contínuo é a chave para o sucesso na programação, e estou animado para enfrentar desafios que me permitam evoluir constantemente.
 
-Por ser apaixonado por tecnologia desde criança, com alma de artista e ter afinidade com física quântica, sou uma pessoa criativa, paciente, comunicativa e com raciocínio lógico apurado.
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;🌞
 
-Estudando para criar soluções significativas e impactantes por meio da programação. Estou em constante busca de desafios que me ajudem a crescer e impactar a vida de outras pessoas de forma positiva.
+I am a Junior Back-End Developer seeking my first professional experience. I have knowledge in technologies such as Java, C#, SQL, and Python. I am always open to exploring new frameworks and languages to enhance my skills and expand my knowledge.
 
-🌞
+I am a creative, patient, and communicative individual, qualities that I believe are essential in the programming world. With a keen logical reasoning, I am constantly studying to create meaningful and impactful solutions through programming.
 
-Hello, I'm a Jr. Dev searching for knowledge.
-
-I am currently making my way through Back end but intend to work with FullStack or other areas of computer science.
-
-C++, Python, Java, JavaScript, Typescript, NodeJS, VueJS, HTM5, CSS3 are some steps of interest on my path.
-
-Because I have been passionate about technology since I was a child, with the soul of an artist and an affinity with quantum physics, I am a creative, patient, communicative person with refined logical reasoning.
-
-Studying to create meaningful and impactful solutions through programming. I am constantly looking for challenges that help me grow and impact other people's lives in a positive way.
+I believe continuous learning is the key to success in programming, and I am excited to tackle challenges that allow me to evolve constantly.
 
 
-## Info
+
+## &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;Info
+
+Languages:
+
+  &ensp;• Java | Spring Boot;
+
+  &ensp;• C#;
+
+  &ensp;• SQL | PostgreSQL;
+
+  &ensp;• Python;
+
+
 
 Tools:
-• Visual Studio Code;
-• GitHub;
+
+  &ensp;• Visual Studio Code;
+
+  &ensp;• GitHub;
 
 Soft Skills:
-• Quick learner;
-• Effective communicator;
-• Organized;
-• Initiative-driven;
-• Strong problem-solving abilities;
-• Customer experience-oriented;
-• Open to giving and receiving feedback.
+
+ &ensp; • Quick learner;
+
+ &ensp;• Effective communicator;
+
+ &ensp; • Organized;
+
+ &ensp; • Initiative-driven;
+
+ &ensp; • Strong problem-solving abilities;
+
+ &ensp; • Customer experience-oriented;
+
+ &ensp; • Open to giving and receiving feedback.
