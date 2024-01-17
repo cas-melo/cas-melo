@@ -22,7 +22,7 @@ I believe continuous learning is the key to success in programming, and I am exc
 
 Languages:
 
-  &ensp;• Java | Spring Boot;
+  &ensp;• Java | Spring Framework;
 
   &ensp;• C#;
 
