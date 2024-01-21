@@ -31,7 +31,7 @@ I believe continuous learning is the key to success in programming and I am cons
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,github,ableton,ps" />
+    <img src="https://skillicons.dev/icons?i=idea,vscode,postman,ps,ableton" />
   </a>
 </p>
 
