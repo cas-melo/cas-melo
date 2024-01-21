@@ -1,55 +1,50 @@
-# &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Hello, World! 
+# <p align="center">Hello, World!</p> 
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;🚀
+<p align="center">🚀</p>
 
-Sou um desenvolvedor Back End Jr. buscando minha primeira experiência profissional, tenho conhecimento em tecnologias como Java, C#, SQL e Python. Estou sempre aberto a explorar novas frameworks e linguagens para aprimorar minhas habilidades e expandir meu conhecimento.
+Sou um desenvolvedor Back End Jr. buscando minha primeira experiência profissional. Estou sempre aberto a explorar novas frameworks e linguagens para aprimorar minhas habilidades e expandir meu conhecimento.
 
-Sou uma pessoa criativa, paciente e comunicativa, características que acredito serem fundamentais no mundo da programação. Com um raciocínio lógico apurado, estou constantemente estudando para criar soluções significativas e impactantes por meio da programação.
+Sou uma pessoa criativa, paciente e comunicativa, características que acredito serem fundamentais no mundo da programação. 
 
-Acredito que o aprendizado contínuo é a chave para o sucesso na programação, e estou animado para enfrentar desafios que me permitam evoluir constantemente.
+Acredito que o aprendizado contínuo é a chave para o sucesso na programação e estou constantemente estudando para criar soluções significativas e impactantes.
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;🌞
+<p align="center">🌞</p>
 
-I am a Junior Back-End Developer seeking my first professional experience. I have knowledge in technologies such as Java, C#, SQL, and Python. I am always open to exploring new frameworks and languages to enhance my skills and expand my knowledge.
+I am a Junior Back-End Developer seeking my first professional experience. I am always open to exploring new frameworks and languages to enhance my skills and expand my knowledge.
 
-I am a creative, patient, and communicative individual, qualities that I believe are essential in the programming world. With a keen logical reasoning, I am constantly studying to create meaningful and impactful solutions through programming.
+I am a creative, patient, and communicative individual, qualities that I believe are essential in the programming world. 
 
-I believe continuous learning is the key to success in programming, and I am excited to tackle challenges that allow me to evolve constantly.
-
-
-
-## &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;Info
-
-Languages:
-
-  &ensp;• Java | Spring Framework;
-
-  &ensp;• C#;
-
-  &ensp;• SQL | PostgreSQL;
-
-  &ensp;• Python;
+I believe continuous learning is the key to success in programming and I am constantly studying to create meaningful and impactful solutions.
 
 
 
-Tools:
+<p align="center">Languages</p>
 
-  &ensp;• Visual Studio Code;
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,java,cs,py,postgres,git" />
+  </a>
+</p>
 
-  &ensp;• GitHub;
 
-Soft Skills:
+<p align="center">Tools</p>
 
- &ensp; • Quick learner;
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,vscode,github,ableton,ps" />
+  </a>
+</p>
 
- &ensp;• Effective communicator;
+<p align="center">Contact</p>
 
- &ensp; • Organized;
+<p align="center">
+  <a href="mailto:casmelo.ms@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/casmelo">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
- &ensp; • Initiative-driven;
 
- &ensp; • Strong problem-solving abilities;
 
- &ensp; • Customer experience-oriented;
-
- &ensp; • Open to giving and receiving feedback.
