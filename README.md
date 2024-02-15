@@ -22,7 +22,7 @@ I believe continuous learning is the key to success in programming and I am cons
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,java,cs,py,postgres,git" />
+    <img src="https://skillicons.dev/icons?i=java,cs,py,postgres,git" />
   </a>
 </p>
 
