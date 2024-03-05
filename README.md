@@ -46,7 +46,7 @@ I believe continuous learning is the key to success in programming and I am cons
   </a>
 </p>
 
-
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cas-melo&theme=vision-friendly-dark&show_icons=true)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cas-melo&theme=vision-friendly-dark&show_icons=true" alt="Anurag's GitHub stats"/>
+</div>
 
