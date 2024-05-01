@@ -2,7 +2,7 @@
 
 <p align="center">🚀</p>
 
-Sou um desenvolvedor Back End Jr. buscando minha primeira experiência profissional. Estou sempre aberto a explorar novas frameworks e linguagens para aprimorar minhas habilidades e expandir meu conhecimento.
+Sou um desenvolvedor Back End Jr. Estou sempre aberto a explorar novas frameworks e linguagens para aprimorar minhas habilidades e expandir meu conhecimento.
 
 Sou uma pessoa criativa, paciente e comunicativa, características que acredito serem fundamentais no mundo da programação. 
 
@@ -10,7 +10,7 @@ Acredito que o aprendizado contínuo é a chave para o sucesso na programação 
 
 <p align="center">🌞</p>
 
-I am a Junior Back-End Developer seeking my first professional experience. I am always open to exploring new frameworks and languages to enhance my skills and expand my knowledge.
+I am a Junior Back-End Developer. I am always open to exploring new frameworks and languages to enhance my skills and expand my knowledge.
 
 I am a creative, patient, and communicative individual, qualities that I believe are essential in the programming world. 
 
